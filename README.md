@@ -9,4 +9,4 @@ Beautiful Soup Amazon Product Parser: A script I made as an intern to track prod
 
 Soccer roster dictionary: Dictionary of player roster by Name and Ratings. Implemented a menu of options that allow roster manipulation: Add, Remove, Update, DeplOy <<given ratings>>
 
-committee: assignment that computed the total number of ways of forming a collection of committees from an academic department of n professors.
+committee: assignment that computed the total number of ways of forming a collection of committees from an academic department of n professors. Created function called committee to compute the number of ways of forming a single committee with r members from a collection of n people. Then referenced the function in multiplecommittees
