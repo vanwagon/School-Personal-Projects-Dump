@@ -8,3 +8,5 @@ On here is both my personal and educational projects:
 Beautiful Soup Amazon Product Parser: A script I made as an intern to track product reviews off product listings. Can be duplicated for multiple products and add code to extract output into CSV.
 
 Soccer roster dictionary: Dictionary of player roster by Name and Ratings. Implemented a menu of options that allow roster manipulation: Add, Remove, Update, DeplOy <<given ratings>>
+
+committee: assignment that computed the total number of ways of forming a collection of committees from an academic department of n professors.
