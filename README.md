@@ -1,5 +1,5 @@
 hello world!
-This is my personal portfolio.
+This is my (mostly schoolwork) portfolio. This is outdated and archived, so to see my latest projects head over to my profile.
 
 LinkedIn: https://www.linkedin.com/in/williamlanvan/
 
@@ -15,4 +15,4 @@ binaryHeap, Heapsort
 
 Binary Searches: recursive and iterative search
 
-bubbleSort
+bubbleSort...
